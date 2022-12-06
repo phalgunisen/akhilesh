@@ -1,0 +1,7 @@
+
+
+def palindrom(s):
+    temp = s(::-1)
+    if s ==temp:
+    print("yes, its a palindrom")
+
